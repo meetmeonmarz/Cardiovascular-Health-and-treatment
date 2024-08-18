@@ -1,0 +1,31 @@
+﻿idPatients,height,sex,age,weight,ethnicity,systolicBP,diastolicBP,cholesterol,glucose,smokeResponse,vapeResponse,alcoholIntake,physicalActivity,currentCVD
+P001,146,F,29,149,Hispanic/Latino,102,64,217,120,1,1,2,3,CV09
+P002,150,F,30,188,Hispanic/Latino,139,81,201,169,0,1,6,6,CV02
+P003,165,M,65,224,Black/Africanamerican,133,73,254,179,0,0,3,4,CV07
+P004,146,F,73,152,Multiracial/Biracial,113,60,201,149,1,0,4,0,CV04
+P005,164,M,24,179,White/Caucasian,141,100,246,126,0,1,3,0,CV06
+P006,193,F,53,146,Asian/Pacific Islander,131,91,260,121,1,1,3,4,CV02
+P007,168,F,65,270,Native American/Alaskan Native,101,97,202,226,0,1,1,2,CV01
+P008,179,F,34,215,Hispanic/Latino,137,87,220,236,0,1,7,4,CV10
+P009,189,F,38,232,White/Caucasian,147,65,189,113,0,0,1,5,CV03
+P010,184,M,27,201,Black/Africanamerican,107,60,240,207,1,1,6,0,CV03
+P011,160,M,45,299,Multiracial/Biracial,129,75,260,146,1,1,0,6,CV08
+P012,140,M,38,207,Hispanic/Latino,147,98,201,96,1,1,5,3,CV04
+P013,153,F,68,274,Native American/Alaskan Native,146,90,191,147,1,0,0,7,CV03
+P014,140,F,40,244,Native American/Alaskan Native,116,64,193,158,1,1,6,4,CV10
+P015,198,M,79,266,Hispanic/Latino,137,78,180,113,0,1,6,5,CV07
+P016,150,F,54,269,Hispanic/Latino,121,73,182,229,1,1,4,7,CV05
+P017,164,M,40,263,Multiracial/Biracial,101,95,213,83,0,1,4,6,CV07
+P018,155,F,67,287,White/Caucasian,144,70,235,152,0,1,0,5,CV10
+P019,198,F,53,297,Hispanic/Latino,114,85,210,228,0,0,3,3,CV10
+P020,191,F,56,147,Native American/Alaskan Native,140,69,247,223,0,1,2,7,CV10
+P021,176,M,57,183,Black/Africanamerican,154,84,217,126,0,0,5,0,CV01
+P022,192,F,62,252,Black/Africanamerican,102,97,260,101,1,1,7,7,CV01
+P023,199,M,29,267,Native American/Alaskan Native,113,60,200,95,1,0,4,6,CV05
+P024,167,F,55,290,White/Caucasian,137,72,245,165,1,1,7,2,CV07
+P025,156,M,47,159,Black/Africanamerican,149,84,249,96,1,0,6,0,CV05
+P026,180,M,63,232,Native American/Alaskan Native,126,69,204,163,1,0,1,7,CV09
+P027,191,M,28,172,Multiracial/Biracial,124,91,257,159,1,0,6,5,CV09
+P028,178,M,64,217,Multiracial/Biracial,106,76,216,152,1,1,4,2,CV06
+P029,186,F,57,288,Hispanic/Latino,150,100,258,203,1,1,3,3,CV04
+P030,184,F,41,247,Asian/Pacific Islander,109,73,222,144,0,1,5,5,CV05

@@ -1,0 +1,16 @@
+﻿idTreatmentplan,description,type
+TRP01,Losartan (antihypertensive),Perscription Medicine
+TRP02,Spironolactone (heart failure) ,Perscription Medicine
+TRP03,NDACs (Anticoagulants),Perscription Medicine
+TRP04,Bisoprolol (multipurpose),Perscription Medicine
+TRP05,Amiodarone (Antiarrhythmics),Perscription Medicine
+TRP06,Nicotine Replacement Agents (substance dependence),Perscription Medicine
+TRP07,Simvastin (cholesterol lowering),Perscription Medicine
+TRP08,Streptokinase (antithrombotics),Perscription Medicine
+TRP09,Low Cholesterol Diet,Diet
+TRP10,Low Charbohydrate Diet ,Diet
+TRP11,"Light cardiovascular exercise, 2 hours in a day",Exercise
+TRP12,"Moderate Cardiovascular exercise, 1 hour",Exercise
+TRP13,"Intense cardiovascular excersise, 1 hour",Exercise
+TRP14,Cornonary Stent,Surgery
+TRP15,Cornoary Angioplasty,Surgery
